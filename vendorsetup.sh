@@ -1,0 +1,2 @@
+add_lunch_combo omni_dogo-eng
+add_lunch_combo omni_dogo-userdebug
